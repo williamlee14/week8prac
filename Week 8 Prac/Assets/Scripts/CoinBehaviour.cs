@@ -16,8 +16,8 @@ public class CoinBehaviour : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider collision)
     {
-        Destroy(transform);
+        Destroy(gameObject);
     }
 }
