@@ -60,6 +60,7 @@
     <Compile Include="Assets\Scripts\Scorekeeper.cs" />
     <Compile Include="Assets\Scripts\UI Manager.cs" />
     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\InputAxes.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
